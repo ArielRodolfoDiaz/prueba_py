@@ -82,7 +82,7 @@ print(otra_lista[:2])
 print(otra_lista + lista)
 otra_lista[2]="odlof"
 print(otra_lista)
-otra_lista.append(25+85j)
+otra_lista.i(25+85j)
 print(otra_lista)
 elimindado = otra_lista.pop(2)
 print(otra_lista)
